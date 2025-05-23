@@ -1,3 +1,5 @@
 /omada-controller-exporter
 .env
 backendkey.pem
+env/
+env
